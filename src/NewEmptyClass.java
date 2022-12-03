@@ -6,6 +6,7 @@ public class NewEmptyClass {
 		
 		System.out.println("New");
 		System.out.println("New1");
+		System.out.println("New3");
 		
 	}
 
